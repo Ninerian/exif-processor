@@ -1,4 +1,4 @@
-(defproject diginetmedia/exif-processor "0.2.0-SNAPSHOT"
+(defproject com.diginetmedia/exif-processor "0.2.0-SNAPSHOT"
   :description "A lightweight Clojure wrapper around the exif processing facility in Drew Oakes' metadata-extractor"
   :url "http://github.com/ninerian/exif-processor"
   :min-lein-version "2.1.0"
