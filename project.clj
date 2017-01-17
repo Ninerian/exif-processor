@@ -9,4 +9,3 @@
                  [clj-http "2.3.0"]]
   :profiles {:dev {:resource-paths ["resources"]}}
   :aliases {"release" ["deploy" "clojars"]})
-  )
